@@ -5,7 +5,8 @@
 <img align="right" alt =" security" width"400" src="https://i.pinimg.com/originals/80/ab/46/80ab46ce3e991da1596d8358f459d587.gif">
 <br> 
 
-<h3 align="left">Profiles</h3>
+## Profiles 
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/PerPetrator.png" alt="TryHackMe">
 
 
