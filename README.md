@@ -20,24 +20,38 @@
   <img src="https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png" alt="image">
 </p>
 
-<br> 
 
-## Profiles 
+<h2 align="center">Profiles</h2>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/PerPetrator.png" alt="TryHackMe">
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/PerPetrator.png" alt="TryHackMe">
+</p>
 
-<p align="left">
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png" alt="image">
 </p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ananthan._.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthanarayanan-s-9706a029a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Anantha03583386) 
+<h2 align="center">🌐 Socials:</h2>
 
-<p align="left">
+<p align="center">
+  <a href="https://instagram.com/ananthan._.s">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/ananthanarayanan-s-9706a029a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/@Anantha03583386">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+  </a>
+</p>
+
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png" alt="image">
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
