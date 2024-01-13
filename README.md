@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ananthan05&label=Profile%20views&color=0e75b6&style=flat" alt="ananthan05" /> </p>
 
 <p align="center">
-  <img alt="security" width="400" src="https://i.pinimg.com/originals/80/ab/46/80ab46ce3e991da1596d8358f459d587.gif">
+  <img alt="security" width="600" src="https://i.pinimg.com/originals/80/ab/46/80ab46ce3e991da1596d8358f459d587.gif">
 </p>
 
 
