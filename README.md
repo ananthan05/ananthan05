@@ -5,9 +5,9 @@
 <img align="right" alt =" security" width"400" src="https://i.pinimg.com/originals/80/ab/46/80ab46ce3e991da1596d8358f459d587.gif">
 
 
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
