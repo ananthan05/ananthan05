@@ -24,7 +24,6 @@
 <h2 align="center">Profiles</h2>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PerPetrator.png" alt="TryHackMe">
 </p>
 
 
