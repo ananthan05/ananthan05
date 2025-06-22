@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png" alt="image">
 </p>
 
-<h2 align="center">💫 About Me: M.Tech in Cybersecurity at TIFAC CORE in Cyber Security,Amrita Vishwa Vidyapeetham.</h2>
+<h2 align="center">💫 About Me: M.Tech in Cybersecurity at TIFAC CORE,Amrita Vishwa Vidyapeetham.</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png" alt="image">
 </p>
